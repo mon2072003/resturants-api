@@ -1,0 +1,1772 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1743677184011,
+    "data": {
+        "totalRecords": 712,
+        "totalPages": 23,
+        "data": [
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d19106088-Reviews-The_Cigar_Bar-Alexandria_Alexandria_Governorate",
+                "locationId": 19106088,
+                "name": "The Cigar Bar",
+                "averageRating": 5,
+                "userReviewCount": 709,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Bar",
+                    "International",
+                    "Mediterranean",
+                    "Wine Bar"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ff/db/d0/the-cigar-bar.jpg?w=4000&h=3000&s=1",
+                "heroImgRawHeight": 3024,
+                "heroImgRawWidth": 4032,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ff/db/d0/the-cigar-bar.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ff/db/d0/the-cigar-bar.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3024,
+                            "maxWidth": 4032
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Cigar bar is the best service you found it there yousef and ahmed very helpful...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d19106088-r791005137-The_Cigar_Bar-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Best Cigar bar",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d19106088-r1000718434-The_Cigar_Bar-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d12373651-Reviews-Santorini_Greek_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 12373651,
+                "name": "Santorini Greek Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 1059,
+                "currentOpenStatusCategory": "OPENING",
+                "currentOpenStatusText": "Opens in 13 min",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "European",
+                    "Greek"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/17/e6/09/getlstd-property-photo.jpg?w=5400&h=3500&s=1",
+                "heroImgRawHeight": 3560,
+                "heroImgRawWidth": 5480,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/17/e6/09/getlstd-property-photo.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/17/e6/09/getlstd-property-photo.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3560,
+                            "maxWidth": 5480
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... tender and juicy The grilled sea  bream  was 9/10 The seabass fillet was se...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d12373651-r872425405-Santorini_Greek_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "... we had seafood  pasta  and it was a g...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d12373651-r955639773-Santorini_Greek_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d4916014-Reviews-Ginger_Asian_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 4916014,
+                "name": "Ginger Asian Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 619,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Chinese",
+                    "Japanese",
+                    "Seafood",
+                    "Sushi",
+                    "Asian",
+                    "Shanghai",
+                    "Hong Kong"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/83/9d/9c/ginger-asian-restaurant.jpg?w=4700&h=3200&s=1",
+                "heroImgRawHeight": 3263,
+                "heroImgRawWidth": 4702,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/83/9d/9c/ginger-asian-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/83/9d/9c/ginger-asian-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3263,
+                            "maxWidth": 4702
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The sushi was great and so yummy. Hygiene was very good. Whenever I crave...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d4916014-r802121449-Ginger_Asian_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": " Sweet and sour chicken , chicken noodles...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d4916014-r937097625-Ginger_Asian_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d17639999-Reviews-Massala_Zone_Indian_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 17639999,
+                "name": "Massala Zone Indian Restaurant",
+                "averageRating": 5,
+                "userReviewCount": 199,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://www3.hilton.com/resources/media/hi/ALYGPHI/en_US/pdf/en_ALYGPHI_Abu_Kir_Menu_Dec2018.pdf",
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Indian",
+                    "Asian",
+                    "Healthy"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/15/fe/30/massala-zone-indian-restaurant.jpg?w=1100&h=1100&s=1",
+                "heroImgRawHeight": 1181,
+                "heroImgRawWidth": 1181,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/15/fe/30/massala-zone-indian-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/15/fe/30/massala-zone-indian-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1181,
+                            "maxWidth": 1181
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Great  indian  food at Marsala zone Chef Mahmud thank you So much also would li...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d17639999-r988428000-Massala_Zone_Indian_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Lazez murgh biryani was very nice service...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d17639999-r773673616-Massala_Zone_Indian_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d13430165-Reviews-NEO_Lounge_Alexandria-Alexandria_Alexandria_Governorate",
+                "locationId": 13430165,
+                "name": "NEO Lounge Alexandria",
+                "averageRating": 5,
+                "userReviewCount": 160,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "American",
+                    "Peruvian",
+                    "Bar",
+                    "Pub",
+                    "Middle Eastern",
+                    "South American"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/47/17/8d/enjoy-the-neo-experience.jpg?w=700&h=500&s=1",
+                "heroImgRawHeight": 542,
+                "heroImgRawWidth": 777,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/47/17/8d/enjoy-the-neo-experience.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/47/17/8d/enjoy-the-neo-experience.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 542,
+                            "maxWidth": 777
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Best place in Egypt to have a  drink  and listen to good music.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d13430165-r911074712-NEO_Lounge_Alexandria-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "I spend very nice 👌 night at neo bar...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d13430165-r776623548-NEO_Lounge_Alexandria-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d12442240-Reviews-Roberto_s_Italian_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 12442240,
+                "name": "Roberto's Italian Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 337,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "Pizza",
+                    "Mediterranean",
+                    "European"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/38/bb/33/getlstd-property-photo.jpg?w=1000&h=600&s=1",
+                "heroImgRawHeight": 683,
+                "heroImgRawWidth": 1024,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/38/bb/33/getlstd-property-photo.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/38/bb/33/getlstd-property-photo.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 683,
+                            "maxWidth": 1024
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "I will definitely choose  seafood pizza  from now on.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d12442240-r986708421-Roberto_s_Italian_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "The  pizza  was absolutely exceptional—pe...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d12442240-r994065764-Roberto_s_Italian_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2729767-Reviews-Sahar_El_Laialy_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 2729767,
+                "name": "Sahar El-Laialy Restaurant",
+                "averageRating": 5,
+                "userReviewCount": 463,
+                "currentOpenStatusCategory": "OPENING",
+                "currentOpenStatusText": "Opens in 13 min",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Lebanese",
+                    "Mediterranean",
+                    "Middle Eastern"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e4/ef/51/20200211-191046-largejpg.jpg?w=900&h=600&s=1",
+                "heroImgRawHeight": 691,
+                "heroImgRawWidth": 921,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e4/ef/51/20200211-191046-largejpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e4/ef/51/20200211-191046-largejpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 691,
+                            "maxWidth": 921
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "A good welcome with a view of the sea and a wonderful view, and enjoying lunch...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2729767-r798858276-Sahar_El_Laialy_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Excellent food, the lamb shops,  hummus ...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2729767-r974555020-Sahar_El_Laialy_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d952986-Reviews-Balbaa_Village-Alexandria_Alexandria_Governorate",
+                "locationId": 952986,
+                "name": "Balbaa Village",
+                "averageRating": 4.2,
+                "userReviewCount": 806,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Barbecue",
+                    "Grill",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e0/f4/f4/photo0jpg.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e0/f4/f4/photo0jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e0/f4/f4/photo0jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "A fantastic grill restaurant with a lively atmosphere at great service. The...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d952986-r806796522-Balbaa_Village-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "... varieties of  salad  and shellfish we...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d952986-r910075986-Balbaa_Village-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2361538-Reviews-White_and_Blue_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 2361538,
+                "name": "White and Blue Restaurant",
+                "averageRating": 4.1,
+                "userReviewCount": 866,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Greek",
+                    "Healthy"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b8/cb/10/white-and-blue-restaurant.jpg?w=1000&h=700&s=1",
+                "heroImgRawHeight": 756,
+                "heroImgRawWidth": 1008,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b8/cb/10/white-and-blue-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b8/cb/10/white-and-blue-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 756,
+                            "maxWidth": 1008
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... counter where we chose some king  prawns  and large scallops for starters a...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2361538-r947066275-White_and_Blue_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Amazing atmosphere and amazing staff...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2361538-r773567436-White_and_Blue_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d10245552-Reviews-La_Gourmandise_Restaurant_And_Cafe-Alexandria_Alexandria_Governorate",
+                "locationId": 10245552,
+                "name": "La Gourmandise Restaurant And Cafe",
+                "averageRating": 4.8,
+                "userReviewCount": 118,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "French",
+                    "American",
+                    "International"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/01/ef/la-gourmandise-restaurant.jpg?w=4100&h=1900&s=1",
+                "heroImgRawHeight": 1970,
+                "heroImgRawWidth": 4160,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/01/ef/la-gourmandise-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/01/ef/la-gourmandise-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1970,
+                            "maxWidth": 4160
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Very  luxury  breakfast buffet where a variety of choices are available.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d10245552-r917485177-La_Gourmandise_Restaurant_And_Cafe-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "I recommend La Gourmandise restaurant to...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d10245552-r770883758-La_Gourmandise_Restaurant_And_Cafe-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d19927773-Reviews-Jeeda_s-Alexandria_Alexandria_Governorate",
+                "locationId": 19927773,
+                "name": "Jeeda's",
+                "averageRating": 4.6,
+                "userReviewCount": 115,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "http://www.jeedas.com/menu/",
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "European",
+                    "Spanish",
+                    "Healthy"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/85/cb/eb/screenshot-20200709-165811.jpg?w=600&h=300&s=1",
+                "heroImgRawHeight": 395,
+                "heroImgRawWidth": 624,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/85/cb/eb/screenshot-20200709-165811.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/85/cb/eb/screenshot-20200709-165811.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 395,
+                            "maxWidth": 624
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Best  seafood paella  and vibe!",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d19927773-r986554147-Jeeda_s-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Everything was excellent; food, service...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d19927773-r793879054-Jeeda_s-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2727171-Reviews-Fish_Market-Alexandria_Alexandria_Governorate",
+                "locationId": 2727171,
+                "name": "Fish Market",
+                "averageRating": 4.1,
+                "userReviewCount": 657,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/e4/24/fish-market-alexandria.jpg?w=4000&h=2200&s=1",
+                "heroImgRawHeight": 2248,
+                "heroImgRawWidth": 4000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/e4/24/fish-market-alexandria.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/e4/24/fish-market-alexandria.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2248,
+                            "maxWidth": 4000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "I like that they do not just put the  salad  or the bread and tahini in front o...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2727171-r966896634-Fish_Market-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Bread was fresh and hot! Fish was amazing...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2727171-r749690774-Fish_Market-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d7732867-Reviews-La_Mamma-Alexandria_Alexandria_Governorate",
+                "locationId": 7732867,
+                "name": "La Mamma",
+                "averageRating": 4.6,
+                "userReviewCount": 52,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://www.morecravings.com/en/menus/2757",
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "European"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/a6/f7/la-mamma.jpg?w=2000&h=2000&s=1",
+                "heroImgRawHeight": 2048,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/a6/f7/la-mamma.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/a6/f7/la-mamma.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2048,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Also, the  family pizza  is a steal for the price.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d7732867-r964040385-La_Mamma-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "I LOVE their margarita pizza. The veal...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d7732867-r782534013-La_Mamma-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2731576-Reviews-Sea_Gull-Alexandria_Alexandria_Governorate",
+                "locationId": 2731576,
+                "name": "Sea Gull",
+                "averageRating": 4.4,
+                "userReviewCount": 145,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Middle Eastern",
+                    "Soups",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/c9/1c/sea-gull.jpg?w=900&h=700&s=1",
+                "heroImgRawHeight": 720,
+                "heroImgRawWidth": 960,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/c9/1c/sea-gull.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/c9/1c/sea-gull.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 720,
+                            "maxWidth": 960
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "With it’s lovely view facing the port, Sea gull is one of the best if not the...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2731576-r639247730-Sea_Gull-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Fantastic experience.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2731576-r949717882-Sea_Gull-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d24081413-Reviews-Branzino_Fish_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 24081413,
+                "name": "Branzino Fish Restaurant",
+                "averageRating": 4.4,
+                "userReviewCount": 58,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Healthy",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/56/b6/a4/amazing-elegant-and-romantic.jpg?w=700&h=900&s=1",
+                "heroImgRawHeight": 960,
+                "heroImgRawWidth": 768,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/56/b6/a4/amazing-elegant-and-romantic.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/56/b6/a4/amazing-elegant-and-romantic.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 960,
+                            "maxWidth": 768
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "This was an excellent recommendation by  our tour guide  in our visit to Alexan...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d24081413-r989755484-Branzino_Fish_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Great mullet",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d24081413-r995961271-Branzino_Fish_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d1816837-Reviews-Fresca_Four_Seasons_Alexandria_at_San_Stefano-Alexandria_Alexandria_Governorate",
+                "locationId": 1816837,
+                "name": "Fresca, Four Seasons Alexandria at San Stefano",
+                "averageRating": 4.3,
+                "userReviewCount": 145,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$$$",
+                "hasMenu": true,
+                "menuUrl": "https://www.fourseasons.com/alexandria/dining/restaurants/fresca/",
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "European"
+                ],
+                "offers": {
+                    "hasDelivery": false,
+                    "hasReservation": true,
+                    "slot1Offer": {
+                        "providerId": "15910",
+                        "provider": "OpenTable",
+                        "providerDisplayName": "OpenTable",
+                        "buttonText": "Reserve",
+                        "offerURL": "MUFSXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjQ4Mjk3NDM3Jmdlbz0xODE2ODM3JmZyb209UmVzdGF1cmFudHMmYXJlYT1yZXNlcnZhdGlvbl9idXR0b24mc2xvdD0xJm1hdGNoSUQ9MSZvb3M9MCZjbnQ9MSZzaWxvPTQ1NTgyJmJ1Y2tldD05Nzk2NDEmbnJhbms9MSZjcmFuaz0yJmNsdD1SJnR0eXBlPVJlc3RhdXJhbnQmdG09MzIzNTg4NzgzJm1hbmFnZWQ9ZmFsc2UmY2FwcGVkPWZhbHNlJmdvc294PTlETXZpYkRUV2ROYUZlR1lMOFFUYWt5djFMQllaYUdwZUI0TUVIbi1odjJtWkJOMzc2RUhWQ0d1c1RJUnhtSjh3VUtIOWwtY256MFpYcjNuNU5vVTFhV2h3LUtjMEg1cXcyN1dhTkpxRDdBJmNzPTEwYzMzMjBlODhmZTdhYzMwMTU5OTI3MTJiNWZkYTYxZV8wSXM=",
+                        "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+                        "trackingEvent": "reserve_click",
+                        "canProvideTimeslots": true,
+                        "canLockTimeslots": true,
+                        "timeSlots": []
+                    },
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5a/9c/dd/fresca-four-seasons-alexandria.jpg?w=3500&h=2400&s=1",
+                "heroImgRawHeight": 2481,
+                "heroImgRawWidth": 3508,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5a/9c/dd/fresca-four-seasons-alexandria.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5a/9c/dd/fresca-four-seasons-alexandria.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2481,
+                            "maxWidth": 3508
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The view from the hotel room on the 8th floor is out of this world. I wish I...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d1816837-r722766948-Fresca_Four_Seasons_Alexandria_at_San_Stefano-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Good lasagna at Stefano’s in Alexandria",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d1816837-r875347194-Fresca_Four_Seasons_Alexandria_at_San_Stefano-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d21401927-Reviews-Sky_View_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 21401927,
+                "name": "Sky View Restaurant",
+                "averageRating": 4.2,
+                "userReviewCount": 85,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "French",
+                    "Bar",
+                    "International",
+                    "Mediterranean",
+                    "Diner"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f2/4a/0a/open-air.jpg?w=1000&h=700&s=1",
+                "heroImgRawHeight": 768,
+                "heroImgRawWidth": 1024,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f2/4a/0a/open-air.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f2/4a/0a/open-air.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 768,
+                            "maxWidth": 1024
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": " Great restaurant ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d21401927-r997014526-Sky_View_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Fantastic hotel with luxury decoration...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d21401927-r781634590-Sky_View_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d952981-Reviews-Abd_El_Wahab_Village-Alexandria_Alexandria_Governorate",
+                "locationId": 952981,
+                "name": "Abd El Wahab Village",
+                "averageRating": 4.4,
+                "userReviewCount": 92,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Barbecue",
+                    "Grill",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ee/8b/f7/img-20180731-161128-largejpg.jpg?w=1000&h=700&s=1",
+                "heroImgRawHeight": 756,
+                "heroImgRawWidth": 1008,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ee/8b/f7/img-20180731-161128-largejpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ee/8b/f7/img-20180731-161128-largejpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 756,
+                            "maxWidth": 1008
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "One of the top oriental Egyptian food. Very helpful and friendly staff, a...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d952981-r657712632-Abd_El_Wahab_Village-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Very busy",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d952981-r731997874-Abd_El_Wahab_Village-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2729285-Reviews-Chez_Gaby_Au_Ritrovo-Alexandria_Alexandria_Governorate",
+                "locationId": 2729285,
+                "name": "Chez Gaby Au Ritrovo",
+                "averageRating": 4.1,
+                "userReviewCount": 175,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "Pizza",
+                    "International",
+                    "European"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/00/2d/e2/best-pizza-in-town.jpg?w=2000&h=1400&s=1",
+                "heroImgRawHeight": 1489,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/00/2d/e2/best-pizza-in-town.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/00/2d/e2/best-pizza-in-town.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1489,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The best pizza place in Alexandria. The pizza is very tasty and the hospitality...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2729285-r805498696-Chez_Gaby_Au_Ritrovo-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Dinner at Chez Gaby",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2729285-r892174781-Chez_Gaby_Au_Ritrovo-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d1526202-Reviews-Santa_Lucia_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 1526202,
+                "name": "Santa Lucia Restaurant",
+                "averageRating": 4.3,
+                "userReviewCount": 93,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "European"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/03/f2/f9/photo4jpg.jpg?w=2000&h=2000&s=1",
+                "heroImgRawHeight": 2048,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/03/f2/f9/photo4jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/03/f2/f9/photo4jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2048,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... executed vitello tonnato,  shrimp risotto , lasagna, plus a delicious marin...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d1526202-r947022763-Santa_Lucia_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "A fantastic unforgettable dinner in Santa...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d1526202-r641654531-Santa_Lucia_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d812853-Reviews-Roastery_coffee-Alexandria_Alexandria_Governorate",
+                "locationId": 812853,
+                "name": "Roastery coffee",
+                "averageRating": 4.1,
+                "userReviewCount": 174,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Cafe",
+                    "Contemporary"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9c/41/fb/roastery-coffee.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1500,
+                "heroImgRawWidth": 2000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9c/41/fb/roastery-coffee.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9c/41/fb/roastery-coffee.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1500,
+                            "maxWidth": 2000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "the staff very helpful and food delicious ,the music was a good staff ,i was so...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d812853-r611224038-Roastery_coffee-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Good place for eating if you are going to Theatre or shopping",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d812853-r722143691-Roastery_coffee-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2224032-Reviews-Fish_Market-Alexandria_Alexandria_Governorate",
+                "locationId": 2224032,
+                "name": "Fish Market",
+                "averageRating": 3.9,
+                "userReviewCount": 190,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4c/6d/b2/interior.jpg?w=2000&h=1300&s=1",
+                "heroImgRawHeight": 1333,
+                "heroImgRawWidth": 2000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4c/6d/b2/interior.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4c/6d/b2/interior.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Excellent harbour view , It was a predetermined menu, but the  fresh fish  we h...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2224032-r920708409-Fish_Market-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "... we we to in our travels in  Egypt ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2224032-r867688524-Fish_Market-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2726485-Reviews-Arous_El_Bahr_Fish_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 2726485,
+                "name": "Arous El Bahr Fish Restaurant",
+                "averageRating": 4.2,
+                "userReviewCount": 95,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/e1/0c/grilled-shrimp-calamari.jpg?w=4000&h=3000&s=1",
+                "heroImgRawHeight": 3024,
+                "heroImgRawWidth": 4032,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/e1/0c/grilled-shrimp-calamari.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/e1/0c/grilled-shrimp-calamari.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3024,
+                            "maxWidth": 4032
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "best restaurant in  Alexandria ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2726485-r957369847-Arous_El_Bahr_Fish_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Let yourself taken by the suggestions of...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2726485-r702161694-Arous_El_Bahr_Fish_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d9886033-Reviews-Alban_Swesra-Alexandria_Alexandria_Governorate",
+                "locationId": 9886033,
+                "name": "Alban Swesra",
+                "averageRating": 4.2,
+                "userReviewCount": 97,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/53/12/e8/photo0jpg.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/53/12/e8/photo0jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/53/12/e8/photo0jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We tired the cheese and the cheese and shrimp. Everything was fresh and tasty...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d9886033-r779780842-Alban_Swesra-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "nice experience ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d9886033-r922394713-Alban_Swesra-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2730900-Reviews-Farag_Fish-Alexandria_Alexandria_Governorate",
+                "locationId": 2730900,
+                "name": "Farag Fish",
+                "averageRating": 4.4,
+                "userReviewCount": 64,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5b/8f/08/photo1jpg.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5b/8f/08/photo1jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5b/8f/08/photo1jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We ate at other  fish  restaurants, paid a lot more and it was not as delicious.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2730900-r992659533-Farag_Fish-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "As with pretty much all fish restaurants...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2730900-r802068874-Farag_Fish-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d953740-Reviews-Hosny-Alexandria_Alexandria_Governorate",
+                "locationId": 953740,
+                "name": "Hosny",
+                "averageRating": 4,
+                "userReviewCount": 121,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Barbecue",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/02/f5/82/grilled-chicken.jpg?w=3000&h=4000&s=1",
+                "heroImgRawHeight": 4032,
+                "heroImgRawWidth": 3024,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/02/f5/82/grilled-chicken.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/02/f5/82/grilled-chicken.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 4032,
+                            "maxWidth": 3024
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "if u want eat fresh fish and cook it as u like hosny will be good 4 u and it...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d953740-r560075297-Hosny-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Very enjoyable Egyptian restaurant",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d953740-r867473408-Hosny-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d2726694-Reviews-El_Fallah_Restaurant-Alexandria_Alexandria_Governorate",
+                "locationId": 2726694,
+                "name": "El Fallah Restaurant",
+                "averageRating": 4.3,
+                "userReviewCount": 39,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/1d/d8/32/img-20181021-wa0017-largejpg.jpg?w=1200&h=1000&s=1",
+                "heroImgRawHeight": 1051,
+                "heroImgRawWidth": 1280,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/1d/d8/32/img-20181021-wa0017-largejpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/1d/d8/32/img-20181021-wa0017-largejpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1051,
+                            "maxWidth": 1280
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "A very delicious liver sandwiches .. it is cheap and very tasty you will eat...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2726694-r639576007-El_Fallah_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "The Best Kebda in All of Egypt",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d2726694-r995213458-El_Fallah_Restaurant-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d11931260-Reviews-Tamara_Lebanese_Bistro-Alexandria_Alexandria_Governorate",
+                "locationId": 11931260,
+                "name": "Tamara Lebanese Bistro",
+                "averageRating": 4.6,
+                "userReviewCount": 45,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Lebanese",
+                    "Middle Eastern"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/83/87/de/caption.jpg?w=700&h=400&s=1",
+                "heroImgRawHeight": 405,
+                "heroImgRawWidth": 720,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/83/87/de/caption.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/83/87/de/caption.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 405,
+                            "maxWidth": 720
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Fresh and flavorful and a great place to enjoy  Lebanese food .",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d11931260-r937661536-Tamara_Lebanese_Bistro-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Over all it is very good place to visit...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d11931260-r602698242-Tamara_Lebanese_Bistro-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d8755866-Reviews-Jars_Jazz-Alexandria_Alexandria_Governorate",
+                "locationId": 8755866,
+                "name": "Jars & Jazz",
+                "averageRating": 4.6,
+                "userReviewCount": 49,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "American"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fa/5f/88/jars-jazz.jpg?w=500&h=300&s=1",
+                "heroImgRawHeight": 343,
+                "heroImgRawWidth": 515,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fa/5f/88/jars-jazz.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fa/5f/88/jars-jazz.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 343,
+                            "maxWidth": 515
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "High quality, good service, good menu and very tasteful. Its top american...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d8755866-r700355218-Jars_Jazz-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Best american food in Alex",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d8755866-r603457850-Jars_Jazz-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g295398-d4214194-Reviews-Zephyrion_Fish-Alexandria_Alexandria_Governorate",
+                "locationId": 4214194,
+                "name": "Zephyrion Fish",
+                "averageRating": 4,
+                "userReviewCount": 82,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Alexandria",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/24/45/e7/zephyrion-fish.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/24/45/e7/zephyrion-fish.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/24/45/e7/zephyrion-fish.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Seafood and fish are very fresh and delicious. Restaurant have beautiful view...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d4214194-r771004097-Zephyrion_Fish-Alexandria_Alexandria_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Very enjoyable",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g295398-d4214194-r867587387-Zephyrion_Fish-Alexandria_Alexandria_Governorate.html"
+                        }
+                    ]
+                }
+            }
+        ],
+        "currentPage": 1
+    }
+}
