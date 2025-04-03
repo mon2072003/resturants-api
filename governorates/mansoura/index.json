@@ -1,0 +1,1320 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1743677651639,
+    "data": {
+        "totalRecords": 37,
+        "totalPages": 1,
+        "data": [
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690359-Reviews-Al_Sabbahi_Restaurants_Mansoura-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690359,
+                "name": "Al Sabbahi Restaurants - Mansoura",
+                "averageRating": 4.5,
+                "userReviewCount": 40,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "http://l.ead.me/baw9B6",
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood",
+                    "Mediterranean",
+                    "Grill",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/04/42/8d/al-sabbahi-restaurants.jpg?w=700&h=900&s=1",
+                "heroImgRawHeight": 960,
+                "heroImgRawWidth": 720,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/04/42/8d/al-sabbahi-restaurants.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/04/42/8d/al-sabbahi-restaurants.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 960,
+                            "maxWidth": 720
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "In addition we ordered white seafood soup with boneless calamari and fish cubes...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690359-r650097743-Al_Sabbahi_Restaurants_Mansoura-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Wide variety of food",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690359-r781777067-Al_Sabbahi_Restaurants_Mansoura-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d15234304-Reviews-Bremer-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 15234304,
+                "name": "Bremer",
+                "averageRating": 4.8,
+                "userReviewCount": 12,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b1/3d/e6/photo0jpg.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b1/3d/e6/photo0jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b1/3d/e6/photo0jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Perfect restaurant in mansoura",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d15234304-r939412783-Bremer-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "The best cuisines restaurant in mansoura",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d15234304-r887009875-Bremer-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3691022-Reviews-Mohamady_Restaurant-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3691022,
+                "name": "Mohamady Restaurant",
+                "averageRating": 4.2,
+                "userReviewCount": 41,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Grill",
+                    "Egyptian",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/c8/1a/caption.jpg?w=1000&h=600&s=1",
+                "heroImgRawHeight": 688,
+                "heroImgRawWidth": 1032,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/c8/1a/caption.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ce/c8/1a/caption.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 688,
+                            "maxWidth": 1032
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "I’ve visited Cairo branch in Arabella plaza mall with my family for Iftar in...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691022-r787890027-Mohamady_Restaurant-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Good grilled meat and chicken ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691022-r781776915-Mohamady_Restaurant-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3691085-Reviews-El_Baron-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3691085,
+                "name": "El Baron",
+                "averageRating": 4.6,
+                "userReviewCount": 9,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The best sweets and patisserie ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691085-r621778494-El_Baron-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Very good stylish ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691085-r471618446-El_Baron-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690790-Reviews-Cook_Door-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690790,
+                "name": "Cook Door",
+                "averageRating": 4.3,
+                "userReviewCount": 9,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Good restaurant only for sandwiches options the food quality is good and staff...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690790-r458341066-Cook_Door-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Very Good in case of you love fast food.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690790-r428375094-Cook_Door-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690951-Reviews-El_Baron-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690951,
+                "name": "El Baron",
+                "averageRating": 4.5,
+                "userReviewCount": 6,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "house of sweets",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690951-r532275686-El_Baron-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "مطعم البارون",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690951-r738626227-El_Baron-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690930-Reviews-Koshary_Abdou-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690930,
+                "name": "Koshary Abdou",
+                "averageRating": 4.8,
+                "userReviewCount": 5,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "لذيذ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690930-r526764307-Koshary_Abdou-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "اصل الكشري",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690930-r506963401-Koshary_Abdou-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690908-Reviews-Ahmed_Amin-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690908,
+                "name": "Ahmed Amin",
+                "averageRating": 3.9,
+                "userReviewCount": 7,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d5/c2/87/img-20170329-wa0009-largejpg.jpg?w=1000&h=500&s=1",
+                "heroImgRawHeight": 592,
+                "heroImgRawWidth": 1040,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d5/c2/87/img-20170329-wa0009-largejpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d5/c2/87/img-20170329-wa0009-largejpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 592,
+                            "maxWidth": 1040
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Good clean delicious",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690908-r471617313-Ahmed_Amin-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "المفضل لدي !",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690908-r409876930-Ahmed_Amin-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690500-Reviews-Roshdy-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690500,
+                "name": "Roshdy",
+                "averageRating": 5,
+                "userReviewCount": 4,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/91/73/b3/roshdy.jpg?w=1000&h=600&s=1",
+                "heroImgRawHeight": 611,
+                "heroImgRawWidth": 1080,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/91/73/b3/roshdy.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/91/73/b3/roshdy.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 611,
+                            "maxWidth": 1080
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "مطعم متميز",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690500-r526762268-Roshdy-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "ممتاز",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690500-r526156060-Roshdy-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3691062-Reviews-Ahmed_Amin-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3691062,
+                "name": "Ahmed Amin",
+                "averageRating": 4.3,
+                "userReviewCount": 4,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6c/5c/cb/ahmed-amin.jpg?w=1300&h=700&s=1",
+                "heroImgRawHeight": 747,
+                "heroImgRawWidth": 1328,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6c/5c/cb/ahmed-amin.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6c/5c/cb/ahmed-amin.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 747,
+                            "maxWidth": 1328
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Average; I liked ( Balah El Sham)",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691062-r428328044-Ahmed_Amin-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "أحمد أمين",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691062-r604147955-Ahmed_Amin-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690785-Reviews-Chicken_Tikka-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690785,
+                "name": "Chicken Tikka",
+                "averageRating": 4.3,
+                "userReviewCount": 3,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "جيد جداً بما فيه الكفاية",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690785-r758150609-Chicken_Tikka-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "مطعم عائلى",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690785-r257179350-Chicken_Tikka-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690354-Reviews-El_Sheikh_Juice-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690354,
+                "name": "El Sheikh Juice",
+                "averageRating": 5,
+                "userReviewCount": 2,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "رائع",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690354-r526762808-El_Sheikh_Juice-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "عصائر طبيعية مميزة",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690354-r444478002-El_Sheikh_Juice-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690598-Reviews-Fatatry_El_Nil-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690598,
+                "name": "Fatatry El Nil",
+                "averageRating": 5,
+                "userReviewCount": 2,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "فطائر ممتازه",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690598-r506962238-Fatatry_El_Nil-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "فطائر رائعه",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690598-r459171391-Fatatry_El_Nil-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d23179430-Reviews-The_Chef_Hassan_ElKhalili-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 23179430,
+                "name": "The Chef Hassan ElKhalili",
+                "averageRating": 5,
+                "userReviewCount": 1,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$",
+                "hasMenu": true,
+                "menuUrl": "https://thechefeg.com/menu",
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "American",
+                    "Pizza",
+                    "Mediterranean",
+                    "Middle Eastern",
+                    "Eastern European",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/05/5a/52/the-chef-hassan-elkhalilifood.jpg?w=1500&h=1500&s=1",
+                "heroImgRawHeight": 1500,
+                "heroImgRawWidth": 1500,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/05/5a/52/the-chef-hassan-elkhalilifood.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/05/5a/52/the-chef-hassan-elkhalilifood.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1500,
+                            "maxWidth": 1500
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "ش قناةالسويس \r\nالمنصورة",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d23179430-r833347050-The_Chef_Hassan_ElKhalili-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d9861679-Reviews-ORIGO_Cafe-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 9861679,
+                "name": "ORIGO Cafe",
+                "averageRating": 4.3,
+                "userReviewCount": 3,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/12/88/ca/origo-cafe.jpg?w=600&h=900&s=1",
+                "heroImgRawHeight": 960,
+                "heroImgRawWidth": 640,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/12/88/ca/origo-cafe.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/12/88/ca/origo-cafe.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 960,
+                            "maxWidth": 640
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "تجربة جيدة للتغير",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d9861679-r499089528-ORIGO_Cafe-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "رائع",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d9861679-r452517682-ORIGO_Cafe-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690852-Reviews-Cave_Cafe-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690852,
+                "name": "Cave Cafe",
+                "averageRating": 4.5,
+                "userReviewCount": 2,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "كافيه متميز",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690852-r533941679-Cave_Cafe-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "رائع",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690852-r526765785-Cave_Cafe-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d12906369-Reviews-Steakout-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 12906369,
+                "name": "Steakout",
+                "averageRating": 4.5,
+                "userReviewCount": 2,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9d/16/2e/typisch-americanisch.jpg?w=3400&h=4600&s=1",
+                "heroImgRawHeight": 4608,
+                "heroImgRawWidth": 3456,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9d/16/2e/typisch-americanisch.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9d/16/2e/typisch-americanisch.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 4608,
+                            "maxWidth": 3456
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "رائع",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d12906369-r526765341-Steakout-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "Super Abendessen",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d12906369-r525090386-Steakout-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3691130-Reviews-Welatain-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3691130,
+                "name": "Welatain",
+                "averageRating": 4.5,
+                "userReviewCount": 2,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "ولعتييين",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691130-r371712803-Welatain-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "مطعم ولعتين",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691130-r358784980-Welatain-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d14019833-Reviews-Oregano-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 14019833,
+                "name": "Oregano",
+                "averageRating": 5,
+                "userReviewCount": 1,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "الطيبه نبروه الدقهليه",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d14019833-r624079065-Oregano-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690487-Reviews-El_Kareem_Bakery-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690487,
+                "name": "El Kareem Bakery",
+                "averageRating": 5,
+                "userReviewCount": 1,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "مخبوزات كريم",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690487-r506963202-El_Kareem_Bakery-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3691161-Reviews-El_Malky-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3691161,
+                "name": "El Malky",
+                "averageRating": 5,
+                "userReviewCount": 1,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "‪El Malky‬",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691161-r360467106-El_Malky-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690447-Reviews-Gewaida_Pizza-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690447,
+                "name": "Gewaida Pizza",
+                "averageRating": 4,
+                "userReviewCount": 1,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "بيتزا رائعه",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690447-r506962564-Gewaida_Pizza-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690651-Reviews-El_Fayoumi_Pastry-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690651,
+                "name": "El Fayoumi Pastry",
+                "averageRating": 3.3,
+                "userReviewCount": 3,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "حلويات الفيومي",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690651-r604147424-El_Fayoumi_Pastry-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "الايس كريم جميل فقط",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3690651-r575573311-El_Fayoumi_Pastry-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3691031-Reviews-KFC-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3691031,
+                "name": "KFC",
+                "averageRating": 3,
+                "userReviewCount": 2,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "American"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/59/d7/ac/ta-img-20180619-203953.jpg?w=1300&h=600&s=1",
+                "heroImgRawHeight": 653,
+                "heroImgRawWidth": 1344,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/59/d7/ac/ta-img-20180619-203953.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/59/d7/ac/ta-img-20180619-203953.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 653,
+                            "maxWidth": 1344
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Below average ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691031-r588969463-KFC-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "مطعم كنتاكي",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3691031-r604147206-KFC-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3606632-Reviews-Pizza_Hut-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3606632,
+                "name": "Pizza Hut",
+                "averageRating": 2.3,
+                "userReviewCount": 4,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Pizza"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "disappointing",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3606632-r424594206-Pizza_Hut-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        },
+                        {
+                            "reviewText": "If you are addict to pizza, do not go there.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g668835-d3606632-r428374545-Pizza_Hut-Mansoura_Ad_Daqahliyah_Governorate.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d28034330-Reviews-Papa_Johns_Pizza-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 28034330,
+                "name": "Papa Johns Pizza",
+                "averageRating": -1,
+                "userReviewCount": 0,
+                "currentOpenStatusCategory": "OPENING",
+                "currentOpenStatusText": "Opens in 5 min",
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": []
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690808-Reviews-Qesma_Naseeb_Restaurant-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690808,
+                "name": "Qesma & Naseeb Restaurant",
+                "averageRating": -1,
+                "userReviewCount": 0,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/8e/80/ahmed-lgayar.jpg?w=1200&h=900&s=1",
+                "heroImgRawHeight": 959,
+                "heroImgRawWidth": 1280,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/8e/80/ahmed-lgayar.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/8e/80/ahmed-lgayar.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 959,
+                            "maxWidth": 1280
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": []
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d3690795-Reviews-Wessaya-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 3690795,
+                "name": "Wessaya",
+                "averageRating": -1,
+                "userReviewCount": 0,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": []
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d28034333-Reviews-Papa_Johns_Pizza-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 28034333,
+                "name": "Papa Johns Pizza",
+                "averageRating": -1,
+                "userReviewCount": 0,
+                "currentOpenStatusCategory": "OPENING",
+                "currentOpenStatusText": "Opens in 5 min",
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": []
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g668835-d21508298-Reviews-Halab_Restaurant-Mansoura_Ad_Daqahliyah_Governorate",
+                "locationId": 21508298,
+                "name": "Halab Restaurant",
+                "averageRating": -1,
+                "userReviewCount": 0,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": null,
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Mansoura",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Pizza",
+                    "Fast Food",
+                    "Mediterranean",
+                    "Barbecue",
+                    "Egyptian",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "thumbnail": null,
+                "reviewSnippets": {
+                    "reviewSnippetsList": []
+                }
+            }
+        ],
+        "currentPage": 1
+    }
+}

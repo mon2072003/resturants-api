@@ -1,0 +1,1796 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1743677103433,
+    "data": {
+        "totalRecords": 182,
+        "totalPages": 6,
+        "data": [
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1177052-Reviews-El_Tarboush-Luxor_Nile_River_Valley",
+                "locationId": 1177052,
+                "name": "El Tarboush",
+                "averageRating": 4.9,
+                "userReviewCount": 867,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Lebanese",
+                    "Mediterranean",
+                    "Grill",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5b/4f/7a/taste-the-oriental-atmosphere.jpg?w=8600&h=5700&s=1",
+                "heroImgRawHeight": 5752,
+                "heroImgRawWidth": 8628,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5b/4f/7a/taste-the-oriental-atmosphere.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5b/4f/7a/taste-the-oriental-atmosphere.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 5752,
+                            "maxWidth": 8628
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "salad,  mixed grill  and seafood wa very delicious.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1177052-r996542819-El_Tarboush-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Great  lamb chops !",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1177052-r956563027-El_Tarboush-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d23365440-Reviews-Casa_Di_Napoli-Luxor_Nile_River_Valley",
+                "locationId": 23365440,
+                "name": "Casa Di Napoli",
+                "averageRating": 4.9,
+                "userReviewCount": 618,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "Pizza",
+                    "International",
+                    "Mediterranean",
+                    "Healthy"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5b/51/d3/casa-di-napoli.jpg?w=8400&h=5600&s=1",
+                "heroImgRawHeight": 5657,
+                "heroImgRawWidth": 8485,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5b/51/d3/casa-di-napoli.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5b/51/d3/casa-di-napoli.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 5657,
+                            "maxWidth": 8485
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We had the pizza and  risotto  both of which were lovely the food came out quic...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d23365440-r994698535-Casa_Di_Napoli-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Perfect place to eat  Pasta ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d23365440-r996244921-Casa_Di_Napoli-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d28272914-Reviews-Metro_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 28272914,
+                "name": "Metro Restaurant",
+                "averageRating": 5,
+                "userReviewCount": 179,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://www.metroluxor.com/",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Barbecue",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/95/65/de/metro-restaurant.jpg?w=1100&h=700&s=1",
+                "heroImgRawHeight": 769,
+                "heroImgRawWidth": 1186,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/95/65/de/metro-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/95/65/de/metro-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 769,
+                            "maxWidth": 1186
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Very nice grills, nice chicken, nice meat  casserole , excellent service, and n...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d28272914-r996875317-Metro_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "... Nile.we had  mixed grill , chicken an...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d28272914-r994339566-Metro_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d23365441-Reviews-Thai_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 23365441,
+                "name": "Thai Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 273,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Asian",
+                    "Thai",
+                    "Healthy",
+                    "Soups"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/81/8a/sawasdee-and-welcome.jpg?w=2500&h=1700&s=1",
+                "heroImgRawHeight": 1701,
+                "heroImgRawWidth": 2500,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/81/8a/sawasdee-and-welcome.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/81/8a/sawasdee-and-welcome.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1701,
+                            "maxWidth": 2500
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... and Tom Yam  soup  being absolute hig...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d23365441-r997551619-Thai_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Genuine Thai food in a beautiful restaurant",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d23365441-r999200415-Thai_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d24188238-Reviews-El_kababgy_Luxor-Luxor_Nile_River_Valley",
+                "locationId": 24188238,
+                "name": "El-kababgy Luxor",
+                "averageRating": 4.9,
+                "userReviewCount": 1191,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://elkababgyluxor.com/menu",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Grill",
+                    "Middle Eastern",
+                    "Egyptian",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/39/e8/6d/el-kababgy-luxor.jpg?w=4600&h=2000&s=1",
+                "heroImgRawHeight": 2080,
+                "heroImgRawWidth": 4624,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/39/e8/6d/el-kababgy-luxor.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/39/e8/6d/el-kababgy-luxor.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2080,
+                            "maxWidth": 4624
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The mains of lahme meshwi (  lamb chops ) and the grilled chicken with rice wer...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d24188238-r969580762-El_kababgy_Luxor-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "The  lentil soup  was another standout, r...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d24188238-r984463519-El_kababgy_Luxor-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d32835571-Reviews-Oriental_House_Luxor-Luxor_Nile_River_Valley",
+                "locationId": 32835571,
+                "name": "Oriental House Luxor",
+                "averageRating": 5,
+                "userReviewCount": 89,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/53/2e/oriental-house-restaurant.jpg?w=1600&h=1000&s=1",
+                "heroImgRawHeight": 1066,
+                "heroImgRawWidth": 1600,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/53/2e/oriental-house-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/53/2e/oriental-house-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1066,
+                            "maxWidth": 1600
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Amazing Tasty Dishes from Oriental House!",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d32835571-r999801702-Oriental_House_Luxor-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Fantastic",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d32835571-r999788210-Oriental_House_Luxor-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d4206696-Reviews-Aisha_Restaurant_Luxor-Luxor_Nile_River_Valley",
+                "locationId": 4206696,
+                "name": "Aisha Restaurant Luxor",
+                "averageRating": 4.8,
+                "userReviewCount": 1149,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "International",
+                    "Mediterranean",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/56/27/9d/lovely-group-and-great.jpg?w=1100&h=800&s=1",
+                "heroImgRawHeight": 850,
+                "heroImgRawWidth": 1133,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/56/27/9d/lovely-group-and-great.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/56/27/9d/lovely-group-and-great.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 850,
+                            "maxWidth": 1133
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The service was also perfect and they invite us to drink  mint tea  which was a...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d4206696-r967928214-Aisha_Restaurant_Luxor-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "We enjoy our visit meal and drinks. The...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d4206696-r796318851-Aisha_Restaurant_Luxor-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d24926840-Reviews-Ahllan_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 24926840,
+                "name": "Ahllan Restaurant",
+                "averageRating": 5,
+                "userReviewCount": 123,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://jewelhowardcarter.com/menu/",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Lebanese",
+                    "Mediterranean",
+                    "Barbecue",
+                    "Grill",
+                    "Healthy",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/3c/b8/f2/ahllan-restaurant.jpg?w=600&h=400&s=1",
+                "heroImgRawHeight": 426,
+                "heroImgRawWidth": 640,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/3c/b8/f2/ahllan-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/3c/b8/f2/ahllan-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 426,
+                            "maxWidth": 640
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "His tahina was great and balanced, and his purreed  lentil soup  was really lov...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d24926840-r980309896-Ahllan_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "... the chicken  tagine  and the Egyptian...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d24926840-r930928426-Ahllan_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1136831-Reviews-Snobs-Luxor_Nile_River_Valley",
+                "locationId": 1136831,
+                "name": "Snobs",
+                "averageRating": 4.6,
+                "userReviewCount": 738,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a8/fb/17/snobs-grand-mezzs.jpg?w=1400&h=1100&s=1",
+                "heroImgRawHeight": 1165,
+                "heroImgRawWidth": 1412,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a8/fb/17/snobs-grand-mezzs.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a8/fb/17/snobs-grand-mezzs.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1165,
+                            "maxWidth": 1412
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Then Moussaka which was full of flavour and the sea  bass  was divine.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1136831-r995010265-Snobs-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "This is THE BEST restaurant in luxor in...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1136831-r746474951-Snobs-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1586155-Reviews-El_Hussein_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 1586155,
+                "name": "El Hussein Restaurant",
+                "averageRating": 4.5,
+                "userReviewCount": 789,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/3a/4f/photo0jpg.jpg?w=2000&h=2000&s=1",
+                "heroImgRawHeight": 2048,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/3a/4f/photo0jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/3a/4f/photo0jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2048,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We had a tasty simple dish comprised of Kafta, chicken, rice and  french fries .",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1586155-r971150544-El_Hussein_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "... and beef  tagine  which were so delic...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1586155-r943192534-El_Hussein_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1179284-Reviews-Al_Sahaby_Lane_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 1179284,
+                "name": "Al-Sahaby Lane Restaurant",
+                "averageRating": 4.7,
+                "userReviewCount": 2455,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c5/4f/c4/alsahaby-roof-terrace.jpg?w=5400&h=3600&s=1",
+                "heroImgRawHeight": 3648,
+                "heroImgRawWidth": 5472,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c5/4f/c4/alsahaby-roof-terrace.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c5/4f/c4/alsahaby-roof-terrace.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3648,
+                            "maxWidth": 5472
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We were served by Sadiek who was a top guy, brought us  mint tea  on the house...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1179284-r988318745-Al_Sahaby_Lane_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "... was oily and the  pasta  very plain.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1179284-r910996457-Al_Sahaby_Lane_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1996015-Reviews-Tutankhamon-Luxor_Nile_River_Valley",
+                "locationId": 1996015,
+                "name": "Tutankhamon",
+                "averageRating": 4.8,
+                "userReviewCount": 190,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "African",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/83/f6/d8/tut-ankh-amoun.jpg?w=2000&h=1300&s=1",
+                "heroImgRawHeight": 1333,
+                "heroImgRawWidth": 2000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/83/f6/d8/tut-ankh-amoun.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/83/f6/d8/tut-ankh-amoun.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The food was very nice and interesting, especially the  chicken curry .",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1996015-r974290343-Tutankhamon-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "This restaurant is in Luxor West bank by...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1996015-r652963577-Tutankhamon-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d24005300-Reviews-Loqma_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 24005300,
+                "name": "Loqma Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 123,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://drive.google.com/file/d/1GqoUppaBa6q0ocZZVFCr2E2vgSBRiOmu/view?usp=drivesdk",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/31/e1/bd/caption.jpg?w=1200&h=700&s=1",
+                "heroImgRawHeight": 720,
+                "heroImgRawWidth": 1280,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/31/e1/bd/caption.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/31/e1/bd/caption.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 720,
+                            "maxWidth": 1280
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... trays is enough for three people, we order beef with  okra , also good👍.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d24005300-r997429222-Loqma_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "... vegetable  tagine , and the various m...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d24005300-r998137508-Loqma_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d3327098-Reviews-Steigenberger_Nile_Palace_Luxor_Restaurants-Luxor_Nile_River_Valley",
+                "locationId": 3327098,
+                "name": "Steigenberger Nile Palace Luxor Restaurants",
+                "averageRating": 4.8,
+                "userReviewCount": 608,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "Lebanese",
+                    "International",
+                    "Mediterranean",
+                    "European",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/31/ac/5e/mixed-grill-at-el-tarboush.jpg?w=4500&h=3300&s=1",
+                "heroImgRawHeight": 3327,
+                "heroImgRawWidth": 4500,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/31/ac/5e/mixed-grill-at-el-tarboush.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/31/ac/5e/mixed-grill-at-el-tarboush.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3327,
+                            "maxWidth": 4500
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The best food in luxor Excellent drinks is fresh and taste The best chefs...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d3327098-r795140168-Steigenberger_Nile_Palace_Luxor_Restaurants-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "good drinks and  shisha  too",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d3327098-r978298455-Steigenberger_Nile_Palace_Luxor_Restaurants-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d754056-Reviews-The_Lantern_Room_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 754056,
+                "name": "The Lantern Room Restaurant",
+                "averageRating": 4.7,
+                "userReviewCount": 1411,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "International",
+                    "European",
+                    "British",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/67/3a/5e/the-lantern.jpg?w=400&h=300&s=1",
+                "heroImgRawHeight": 300,
+                "heroImgRawWidth": 400,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/67/3a/5e/the-lantern.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/67/3a/5e/the-lantern.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 300,
+                            "maxWidth": 400
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... Main course was a beef  tagine  - the beef was meltingly tender, moist and ...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d754056-r994935925-The_Lantern_Room_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Best restaurant in Luxor ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d754056-r1000119600-The_Lantern_Room_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d25247640-Reviews-Ali_Baba_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 25247640,
+                "name": "Ali Baba Restaurant",
+                "averageRating": 4.8,
+                "userReviewCount": 220,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://alibabarestaurantluxor.com/menu/",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "American",
+                    "Mediterranean",
+                    "Egyptian",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/17/20/2f/ali-baba-restaurant-entrance.jpg?w=6000&h=4000&s=1",
+                "heroImgRawHeight": 4000,
+                "heroImgRawWidth": 6000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/17/20/2f/ali-baba-restaurant-entrance.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/17/20/2f/ali-baba-restaurant-entrance.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 4000,
+                            "maxWidth": 6000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We had an amazing lunch here (especially the home made  chicken nuggets ), and...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d25247640-r992626477-Ali_Baba_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Good Sombousaka",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d25247640-r998641626-Ali_Baba_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1866431-Reviews-Pizza_Roma_it-Luxor_Nile_River_Valley",
+                "locationId": 1866431,
+                "name": "Pizza Roma-it",
+                "averageRating": 4.7,
+                "userReviewCount": 824,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": true,
+                "establishmentTypeAndCuisineTags": [
+                    "Italian",
+                    "Pizza",
+                    "Mediterranean",
+                    "European",
+                    "Neapolitan",
+                    "Campania",
+                    "Tuscan",
+                    "Romana",
+                    "Lazio",
+                    "Sicilian",
+                    "Central-Italian",
+                    "Southern-Italian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/d6/1a/b8/pizza-diavola.jpg?w=7300&h=4900&s=1",
+                "heroImgRawHeight": 4912,
+                "heroImgRawWidth": 7360,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/d6/1a/b8/pizza-diavola.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/d6/1a/b8/pizza-diavola.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 4912,
+                            "maxWidth": 7360
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": " Amazing Restaurant !",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1866431-r980608512-Pizza_Roma_it-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "You won’t be disappointed. Grazie mille...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1866431-r804651501-Pizza_Roma_it-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1644851-Reviews-SunRise_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 1644851,
+                "name": "SunRise Restaurant",
+                "averageRating": 4.7,
+                "userReviewCount": 259,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": true,
+                "establishmentTypeAndCuisineTags": [
+                    "Bar",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/cf/a7/b3/sunrise.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/cf/a7/b3/sunrise.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/cf/a7/b3/sunrise.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The staff is very friendly and professional 😍 sunrise restaurant has a great...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1644851-r762219753-SunRise_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Great dinner across the  street  from So...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1644851-r951854382-SunRise_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1223558-Reviews-Sofra_Restaurant_Cafe-Luxor_Nile_River_Valley",
+                "locationId": 1223558,
+                "name": "Sofra Restaurant & Cafe",
+                "averageRating": 4.6,
+                "userReviewCount": 2738,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Healthy",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/16/7b/22/we-were-seated-in-this.jpg?w=1000&h=600&s=1",
+                "heroImgRawHeight": 683,
+                "heroImgRawWidth": 1024,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/16/7b/22/we-were-seated-in-this.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/16/7b/22/we-were-seated-in-this.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 683,
+                            "maxWidth": 1024
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The best  Kofta  in Egypt",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1223558-r928471577-Sofra_Restaurant_Cafe-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "We had a very pleasant moment at Sofra...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1223558-r806703552-Sofra_Restaurant_Cafe-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d8757901-Reviews-Sunflower_Restaurant_West_bank-Luxor_Nile_River_Valley",
+                "locationId": 8757901,
+                "name": "Sunflower Restaurant West bank",
+                "averageRating": 4.7,
+                "userReviewCount": 398,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": true,
+                "menuUrl": "https://www.flickr.com/photos/elaref/26575349348/in/album-72157685048896910/",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Healthy",
+                    "Middle Eastern",
+                    "Egyptian",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2f/6f/d8/the-best-egyptian-food.jpg?w=1000&h=700&s=1",
+                "heroImgRawHeight": 768,
+                "heroImgRawWidth": 1024,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2f/6f/d8/the-best-egyptian-food.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2f/6f/d8/the-best-egyptian-food.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 768,
+                            "maxWidth": 1024
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "... the Chicken Shawarma and Kebab Halla.It comes in a set with Vege and  soup .",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d8757901-r983179950-Sunflower_Restaurant_West_bank-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "The best in the West Bank...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d8757901-r786305204-Sunflower_Restaurant_West_bank-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1156856-Reviews-A_Taste_of_India_Arabia_International_Restaurant_Plus_Bar-Luxor_Nile_River_Valley",
+                "locationId": 1156856,
+                "name": "A Taste of India & Arabia International Restaurant Plus Bar",
+                "averageRating": 4.4,
+                "userReviewCount": 688,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": {
+                    "year": 2024,
+                    "awardType": "COE"
+                },
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Indian",
+                    "International",
+                    "Middle Eastern",
+                    "Balti",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a3/1f/82/2016-restaurant-thai.jpg?w=2000&h=1300&s=1",
+                "heroImgRawHeight": 1325,
+                "heroImgRawWidth": 2000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a3/1f/82/2016-restaurant-thai.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a3/1f/82/2016-restaurant-thai.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1325,
+                            "maxWidth": 2000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Our waiter encouraged my Arabic which was fun! Everything from the  samosas  to...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1156856-r944788497-A_Taste_of_India_Arabia_International_Restaurant_Plus_Bar-Luxor_Nile_River_Valle.html"
+                        },
+                        {
+                            "reviewText": "Go to place for  vegetarian  at Luxor",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1156856-r978208019-A_Taste_of_India_Arabia_International_Restaurant_Plus_Bar-Luxor_Nile_River_Valle.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d2239004-Reviews-Oasis_Palace-Luxor_Nile_River_Valley",
+                "locationId": 2239004,
+                "name": "Oasis Palace",
+                "averageRating": 4.7,
+                "userReviewCount": 202,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f6/ca/c5/oasis-palace.jpg?w=2000&h=1300&s=1",
+                "heroImgRawHeight": 1333,
+                "heroImgRawWidth": 2000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f6/ca/c5/oasis-palace.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f6/ca/c5/oasis-palace.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Unlike other restaurants we’ve visited throughout Egypt, the food was fresh...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d2239004-r796471259-Oasis_Palace-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "A real gem in the heart of  Luxor ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d2239004-r993924471-Oasis_Palace-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1637526-Reviews-Africa_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 1637526,
+                "name": "Africa Restaurant",
+                "averageRating": 4.4,
+                "userReviewCount": 346,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "African",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/10/fd/photo3jpg.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/10/fd/photo3jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/10/fd/photo3jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We ordered the fried fish (wish we had a little more) and the meat  shawarma .",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1637526-r990274979-Africa_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "The  soup  was excellent and the meat so...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1637526-r985666460-Africa_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d32721784-Reviews-Fish_House-Luxor_Nile_River_Valley",
+                "locationId": 32721784,
+                "name": "Fish House",
+                "averageRating": 4.9,
+                "userReviewCount": 47,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": null,
+                "hasMenu": true,
+                "menuUrl": "https://fishhouseluxor.com/#Menu",
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Seafood"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/ec/5b/9f/fish-house-restaurant.jpg?w=2400&h=1600&s=1",
+                "heroImgRawHeight": 1658,
+                "heroImgRawWidth": 2487,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/ec/5b/9f/fish-house-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/ec/5b/9f/fish-house-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1658,
+                            "maxWidth": 2487
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "We had schrimprice and also  mullet  with...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d32721784-r996214388-Fish_House-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "The place to go for a fish diner",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d32721784-r997518844-Fish_House-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d13454497-Reviews-Wolf_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 13454497,
+                "name": "Wolf Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 68,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Mediterranean",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d3/57/df/photo1jpg.jpg?w=2000&h=2000&s=1",
+                "heroImgRawHeight": 2049,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d3/57/df/photo1jpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d3/57/df/photo1jpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 2049,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "Nuby, the chef, is an amazing character. Well travelled, he knows the flavours...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d13454497-r778747125-Wolf_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "... beef, and a plate of  grilled chicken .",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d13454497-r995268634-Wolf_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d23138776-Reviews-Malkata_House-Luxor_Nile_River_Valley",
+                "locationId": 23138776,
+                "name": "Malkata House",
+                "averageRating": 4.9,
+                "userReviewCount": 52,
+                "currentOpenStatusCategory": null,
+                "currentOpenStatusText": null,
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Healthy",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/eb/82/0d/discover-the-flavors.jpg?w=4800&h=3200&s=1",
+                "heroImgRawHeight": 3228,
+                "heroImgRawWidth": 4842,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/eb/82/0d/discover-the-flavors.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/eb/82/0d/discover-the-flavors.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 3228,
+                            "maxWidth": 4842
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "He accommodated to our meal restrictions effortlessly with the warmest smile on...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d23138776-r793386171-Malkata_House-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Best lunch in Luxor",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d23138776-r991798489-Malkata_House-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1648554-Reviews-The_Kings_Head_Pub_and_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 1648554,
+                "name": "The Kings Head Pub and Restaurant",
+                "averageRating": 4.4,
+                "userReviewCount": 300,
+                "currentOpenStatusCategory": "CLOSED",
+                "currentOpenStatusText": "Closed now",
+                "priceTag": "$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Bar",
+                    "British",
+                    "Pub"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/39/d0/interior.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1500,
+                "heroImgRawWidth": 2000,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/39/d0/interior.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/39/d0/interior.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1500,
+                            "maxWidth": 2000
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "how wonderful to be back in luxor at the kings head pub,great food and ice...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1648554-r806812540-The_Kings_Head_Pub_and_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": " Great Bar ",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1648554-r992986777-The_Kings_Head_Pub_and_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d1393014-Reviews-Gerda_s_Garden-Luxor_Nile_River_Valley",
+                "locationId": 1393014,
+                "name": "Gerda's Garden",
+                "averageRating": 4.7,
+                "userReviewCount": 294,
+                "currentOpenStatusCategory": "OPENING",
+                "currentOpenStatusText": "Opens in 14 min",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "German",
+                    "European",
+                    "Middle Eastern",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d9/a5/d0/img-20181226-163132-largejpg.jpg?w=1000&h=700&s=1",
+                "heroImgRawHeight": 756,
+                "heroImgRawWidth": 1008,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d9/a5/d0/img-20181226-163132-largejpg.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d9/a5/d0/img-20181226-163132-largejpg.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 756,
+                            "maxWidth": 1008
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The  German  style potatoes were spot on.",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1393014-r921881855-Gerda_s_Garden-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "A real gem of a place situated opposite...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d1393014-r791632008-Gerda_s_Garden-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d2276717-Reviews-Cafe_Restaurant_Maratonga_Medinet_Habu_Luxor-Luxor_Nile_River_Valley",
+                "locationId": 2276717,
+                "name": "Café & Restaurant Maratonga - Medinet Habu, Luxor",
+                "averageRating": 4.8,
+                "userReviewCount": 76,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Cafe",
+                    "Fusion",
+                    "Healthy",
+                    "Egyptian"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/94/21/00/family-team.jpg?w=2000&h=1500&s=1",
+                "heroImgRawHeight": 1536,
+                "heroImgRawWidth": 2048,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/94/21/00/family-team.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/94/21/00/family-team.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "He took it in and raised the little bird. it was fun to see the bird hop around...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d2276717-r769816909-Cafe_Restaurant_Maratonga_Medinet_Habu_Luxor-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "Good value great food and lovely owners",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d2276717-r994847264-Cafe_Restaurant_Maratonga_Medinet_Habu_Luxor-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "restaurantsId": "Restaurant_Review-g294205-d26860909-Reviews-Saray_El_Nile_Restaurant-Luxor_Nile_River_Valley",
+                "locationId": 26860909,
+                "name": "Saray El-Nile Restaurant",
+                "averageRating": 4.9,
+                "userReviewCount": 41,
+                "currentOpenStatusCategory": "OPEN",
+                "currentOpenStatusText": "Open now",
+                "priceTag": "$$ - $$$",
+                "hasMenu": false,
+                "menuUrl": null,
+                "isDifferentGeo": false,
+                "parentGeoName": "Luxor",
+                "distanceTo": null,
+                "awardInfo": null,
+                "isLocalChefItem": false,
+                "isPremium": false,
+                "isStoryboardPublished": false,
+                "establishmentTypeAndCuisineTags": [
+                    "Cafe",
+                    "International",
+                    "Diner",
+                    "Arabic"
+                ],
+                "offers": {
+                    "hasDelivery": null,
+                    "hasReservation": null,
+                    "slot1Offer": null,
+                    "slot2Offer": null,
+                    "restaurantSpecialOffer": null
+                },
+                "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/81/cf/ad/saray-elnile-restaurant.jpg?w=1600&h=1200&s=1",
+                "heroImgRawHeight": 1200,
+                "heroImgRawWidth": 1600,
+                "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/81/cf/ad/saray-elnile-restaurant.jpg?w=200&h=200&s=1",
+                "squareImgRawLength": 0,
+                "thumbnail": {
+                    "photo": {
+                        "photoSizeDynamic": {
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/81/cf/ad/saray-elnile-restaurant.jpg?w={width}&h={height}&s=1",
+                            "maxHeight": 1200,
+                            "maxWidth": 1600
+                        }
+                    }
+                },
+                "reviewSnippets": {
+                    "reviewSnippetsList": [
+                        {
+                            "reviewText": "The 360-degree panorama from the  roof-terrace  is absolutely stunning and a mu...",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d26860909-r985000978-Saray_El_Nile_Restaurant-Luxor_Nile_River_Valley.html"
+                        },
+                        {
+                            "reviewText": "An incredible experience !",
+                            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g294205-d26860909-r994438330-Saray_El_Nile_Restaurant-Luxor_Nile_River_Valley.html"
+                        }
+                    ]
+                }
+            }
+        ],
+        "currentPage": 1
+    }
+}
